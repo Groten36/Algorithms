@@ -1,0 +1,1 @@
+/usr/sbin/c++ -Wl,--dependency-file=CMakeFiles/Algorithms.dir/link.d CMakeFiles/Algorithms.dir/main.cpp.o -o Algorithms

@@ -8,7 +8,7 @@
 int main(){
     std::vector<int> data={6,3,8,95,2,5};
     std::span<int> sdata(data);
-    sorting::bubbleSort(data);
+    sorting::selectionSort(sdata);
     for(auto i:sdata){
         std::cout<<i<<" ";
     }

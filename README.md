@@ -1,5 +1,5 @@
 # Algorithms
-Implementation of various algorithms
+Implementation of various algorithms using modern C++ (20)
 # Sorting
 1. Bubble sort
 2. Selection sort

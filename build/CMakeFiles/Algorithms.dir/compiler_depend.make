@@ -20,6 +20,7 @@ Algorithms: /lib64/ld-linux-x86-64.so.2 \
   CMakeFiles/Algorithms.dir/main.cpp.o
 
 CMakeFiles/Algorithms.dir/main.cpp.o: /home/vader/Algorithms/main.cpp \
+  /home/vader/Algorithms/search/Search.h \
   /home/vader/Algorithms/sorting/Sorting.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/bitsperlong.h \
@@ -363,8 +364,6 @@ CMakeFiles/Algorithms.dir/main.cpp.o: /home/vader/Algorithms/main.cpp \
 
 /usr/include/c++/15/bits/stl_function.h:
 
-/usr/include/c++/15/bits/stl_construct.h:
-
 /usr/include/c++/15/vector:
 
 /usr/include/c++/15/bits/stl_iterator.h:
@@ -390,10 +389,6 @@ CMakeFiles/Algorithms.dir/main.cpp.o: /home/vader/Algorithms/main.cpp \
 /usr/include/c++/15/bits/ostream.tcc:
 
 /usr/include/c++/15/bits/ostream.h:
-
-/usr/include/c++/15/bits/streambuf_iterator.h:
-
-/usr/include/bits/types.h:
 
 /usr/include/bits/thread-shared-types.h:
 
@@ -468,6 +463,12 @@ CMakeFiles/Algorithms.dir/main.cpp.o:
 /usr/include/c++/15/algorithm:
 
 /usr/include/bits/locale.h:
+
+/usr/include/c++/15/bits/ranges_base.h:
+
+/usr/include/c++/15/bits/nested_exception.h:
+
+/lib64/ld-linux-x86-64.so.2:
 
 /usr/include/wctype.h:
 
@@ -569,6 +570,14 @@ CMakeFiles/Algorithms.dir/main.cpp.o:
 
 /usr/lib64/libc_nonshared.a:
 
+/usr/include/c++/15/bits/stl_construct.h:
+
+/home/vader/Algorithms/search/Search.h:
+
+/usr/include/c++/15/pstl/glue_algorithm_defs.h:
+
+/usr/include/c++/15/bits/algorithmfwd.h:
+
 /home/vader/Algorithms/sorting/Sorting.h:
 
 /usr/include/c++/15/bits/uses_allocator.h:
@@ -582,6 +591,10 @@ CMakeFiles/Algorithms.dir/main.cpp.o:
 /usr/include/asm-generic/errno-base.h:
 
 /usr/include/asm-generic/errno.h:
+
+/usr/include/c++/15/bits/streambuf_iterator.h:
+
+/usr/include/bits/types.h:
 
 /usr/include/bits/types/FILE.h:
 
@@ -653,10 +666,6 @@ CMakeFiles/Algorithms.dir/main.cpp.o:
 
 /usr/include/c++/15/bits/exception_ptr.h:
 
-/usr/include/c++/15/pstl/glue_algorithm_defs.h:
-
-/usr/include/c++/15/bits/algorithmfwd.h:
-
 /usr/include/c++/15/bits/basic_ios.tcc:
 
 /usr/include/c++/15/x86_64-redhat-linux/bits/ctype_base.h:
@@ -726,9 +735,3 @@ CMakeFiles/Algorithms.dir/main.cpp.o:
 /usr/include/c++/15/bits/memory_resource.h:
 
 /usr/include/c++/15/bits/move.h:
-
-/usr/include/c++/15/bits/ranges_base.h:
-
-/lib64/ld-linux-x86-64.so.2:
-
-/usr/include/c++/15/bits/nested_exception.h:

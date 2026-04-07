@@ -6,6 +6,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED YES)
 
 add_executable(Algorithms main.cpp
         sorting/Sorting.h
+        search/Search.h
         )
 
 target_compile_options(Algorithms PRIVATE

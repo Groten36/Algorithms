@@ -22,6 +22,7 @@ Algorithms
 
 CMakeFiles/Algorithms.dir/main.cpp.o
  /home/vader/Algorithms/main.cpp
+ /home/vader/Algorithms/search/Search.h
  /home/vader/Algorithms/sorting/Sorting.h
  /usr/include/alloca.h
  /usr/include/asm-generic/bitsperlong.h

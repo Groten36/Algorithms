@@ -151,4 +151,5 @@ CMakeFiles/Algorithms.dir/main.cpp.o: /home/vader/Algorithms/main.cpp \
  /usr/include/c++/15/bits/ranges_algo.h \
  /usr/include/c++/15/bits/ranges_algobase.h \
  /usr/include/c++/15/pstl/glue_algorithm_defs.h \
- /usr/include/c++/15/pstl/execution_defs.h
+ /usr/include/c++/15/pstl/execution_defs.h \
+ /home/vader/Algorithms/search/Search.h
